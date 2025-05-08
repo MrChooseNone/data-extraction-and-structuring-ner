@@ -1,0 +1,13 @@
+# Microsoft Word
+*.doc
+*.docx
+~$*.doc
+~$*.docx
+
+# PDF files
+*.pdf
+~$*.pdf
+
+
+my‐swedish‐ner/
+swedish-ner/
