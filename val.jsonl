@@ -1,0 +1,41 @@
+{"tokens": ["Systemet", "är", "installerat", "enligt", "SBF", "120", ":", "4", "."], "ner_tags": [0, 0, 0, 0, 14, 15, 15, 15, 0]}
+{"tokens": ["SBF", "120", ":", "5", "föreskriver", "viktiga", "säkerhetskrav", "för", "utrymmen", "."], "ner_tags": [14, 15, 15, 15, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Anläggningen", "ska", "uppfylla", "krav", "enligt", "SBF", "120", ":", "6"], "ner_tags": [0, 0, 0, 0, 0, 14, 15, 15, 15]}
+{"tokens": ["Vi", "följer", "SBF", "120", ":", "7", "i", "hela", "projektets", "livscykel", "."], "ner_tags": [0, 0, 14, 15, 15, 15, 0, 0, 0, 0, 0]}
+{"tokens": ["SBF", "120", ":", "8", "är", "relevant", "för", "riskklassificering", "av", "lokaler", "med", "höga", "värden", "."], "ner_tags": [14, 15, 15, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Enligt", "SBF", "120", ":", "4", "krävs", "åtgärder", "vid", "fel", "i", "systemet", "."], "ner_tags": [0, 14, 15, 15, 15, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ritningen", "måste", "anpassas", "efter", "SBF", "120", ":", "5", "för", "godkännande", "."], "ner_tags": [0, 0, 0, 0, 14, 15, 15, 15, 0, 0, 0]}
+{"tokens": ["Installationen", "är", "baserad", "på", "SBF", "120", ":", "6", "och", "andra", "standarder", "."], "ner_tags": [0, 0, 0, 0, 14, 15, 15, 15, 0, 0, 0, 0]}
+{"tokens": ["SSEN", "12458", "specificerar", "krav", "för", "larmöverföring", "i", "nödsituationer", "."], "ner_tags": [14, 15, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dokumentationen", "måste", "överensstämma", "med", "SSEN", "12458", "innan", "granskning", "."], "ner_tags": [0, 0, 0, 0, 14, 15, 0, 0, 0]}
+{"tokens": ["SSEN", "12458", "används", "som", "referens", "för", "monteringshöjd", "av", "detektorer", "."], "ner_tags": [14, 15, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Systemleverantören", "måste", "intyga", "att", "lösningen", "följer", "SSEN", "12458", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 14, 15, 0]}
+{"tokens": ["Kontrollen", "utfördes", "i", "enlighet", "med", "kraven", "i", "SSEN", "12458", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 14, 15, 0]}
+{"tokens": ["Sprinklersystemet", "har", "projekterats", "i", "enlighet", "med", "NFPA", "13", "för", "optimal", "täcktäckning", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 14, 15, 0, 0, 0, 0]}
+{"tokens": ["NFPA", "13", "används", "som", "grund", "för", "dimensioneringen", "av", "rörsystemet", "."], "ner_tags": [14, 15, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Alla", "komponenter", "ska", "uppfylla", "krav", "enligt", "NFPA", "13", "innan", "installation", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 14, 15, 0, 0, 0]}
+{"tokens": ["Vid", "projektering", "av", "garageplanet", "har", "kraven", "i", "NFPA", "13", "beaktats", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 14, 15, 0, 0]}
+{"tokens": ["Installationen", "ska", "kontrolleras", "mot", "NFPA", "13", "för", "att", "säkerställa", "regelefterlevnad", "."], "ner_tags": [0, 0, 0, 0, 14, 15, 0, 0, 0, 0, 0]}
+{"tokens": ["Systemet", "har", "dimensionerats", "enligt", "FM", "för", "högsta", "driftsäkerhet", "."], "ner_tags": [0, 0, 0, 0, 14, 0, 0, 0, 0]}
+{"tokens": ["FM", "kräver", "extra", "åtgärder", "vid", "höga", "takhöjder", "och", "lagerverksamhet", "."], "ner_tags": [14, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Alla", "komponenter", "i", "systemet", "ska", "vara", "certifierade", "enligt", "FM", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 14, 0]}
+{"tokens": ["I", "projektet", "har", "vi", "valt", "att", "följa", "FM", "för", "brandskydd", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 14, 0, 0, 0]}
+{"tokens": ["FM", "specificerar", "krav", "på", "sprinklers", "för", "brandklassade", "utrymmen", "."], "ner_tags": [14, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Brandlarmsanläggningen", "ska", "installeras", "enligt", "SBF", "501", "och", "testas", "innan", "drift", "."], "ner_tags": [0, 0, 0, 0, 14, 15, 0, 0, 0, 0, 0]}
+{"tokens": ["SBF", "501", "anger", "vilka", "krav", "som", "gäller", "för", "centralutrustningen", "."], "ner_tags": [14, 15, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dokumentationen", "ska", "inkludera", "intyg", "på", "att", "systemet", "följer", "SBF", "501", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 14, 15, 0]}
+{"tokens": ["Vid", "projektering", "av", "brandlarmsystem", "ska", "SBF", "501", "användas", "som", "referens", "."], "ner_tags": [0, 0, 0, 0, 0, 14, 15, 0, 0, 0, 0]}
+{"tokens": ["Alla", "komponenter", "måste", "uppfylla", "kraven", "i", "SBF", "501", "för", "att", "bli", "godkända", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 14, 15, 0, 0, 0, 0, 0]}
+{"tokens": ["Brandskyddsdokumentationen", "ska", "vara", "i", "enlighet", "med", "SS", "_", "3112", "och", "arkiveras", "digitalt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 14, 15, 15, 0, 0, 0, 0]}
+{"tokens": ["SS", "_", "3112", "används", "som", "grund", "för", "utformning", "av", "larmsystemet", "."], "ner_tags": [14, 15, 15, 0, 0, 0, 0, 0, 0,0,0]}
+{"tokens": ["Alla", "installationer", "ska", "utföras", "i", "enlighet", "med", "SS", "_", "3112", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 14, 15, 15, 0]}
+{"tokens": ["Krav", "på", "detektortyp", "och", "placering", "regleras", "av", "SS", "_", "3112", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 14, 15, 15, 0]}
+{"tokens": ["SS", "_", "3112", "ska", "användas", "vid", "projektering", "av", "brandlarmscentraler", "."], "ner_tags": [14, 15, 15, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Systemet", "ska", "installeras", "enligt", "SBF", "504", ":", "1", "och", "besiktigas", "innan", "driftsättning", "."], "ner_tags": [0, 0, 0, 0, 14, 15, 15, 15, 0, 0, 0, 0, 0]}
+{"tokens": ["SBF", "504", ":", "1", "används", "som", "grund", "för", "projektering", "av", "larmöverföring", "."], "ner_tags": [14, 15, 15, 15, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Alla", "leverantörer", "måste", "följa", "SBF", "504", ":", "1", "för", "att", "uppfylla", "kraven", "."], "ner_tags": [0, 0, 0, 0, 14, 15, 15, 15, 0, 0, 0, 0, 0]}
+{"tokens": ["Dokumentationen", "ska", "granskas", "mot", "SBF", "504", ":", "1", "innan", "godkännande", "."], "ner_tags": [0, 0, 0, 0, 14, 15, 15, 15, 0, 0, 0]}
+{"tokens": ["Vid", "projektering", "har", "man", "utgått", "från", "SBF", "504", ":", "1", "för", "att", "säkerställa", "standard", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 14, 15, 15, 15, 0, 0, 0, 0, 0]}
+{"tokens": ["Enligt", "SBF", "500", ":", "4", "ska", "alla", "komponenter", "testas", "och", "godkännas", "före", "installation", "."], "ner_tags": [0, 0, 14, 15, 15, 15, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["SBF", "500", ":", "4", "kräver", "att", "alla", "systemkomponenter", "är", "certifierade", "för", "brandskydd", "."], "ner_tags": [14, 15, 15, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dokumentationen", "ska", "bevisa", "att", "installationer", "uppfyller", "kraven", "i", "SBF", "500", ":", "4", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 14, 15, 15, 15, 0]}

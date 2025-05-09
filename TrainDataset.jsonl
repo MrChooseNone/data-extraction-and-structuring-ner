@@ -17,8 +17,8 @@
 {"tokens": ["Rör,", "kopplingar", "och", "rördelar", "skall", "levereras", "skyddsmålade", "och", "uppfylla", "SBF", "120",":","8."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 15,15,15]}
 {"tokens": ["Tillverkningsstandard:", "EN10217-1:2004", "material", "PR235", "TR-1", "eller", "TR-2.", "Rören", "ska", "vara", "FM", "godkända", "enligt", "Class", "Number", "1630", "eller", "SBSC", "certifierade."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 0]}
 {"tokens": ["Installationen", "utgör", "en", "nyinstallation", "och", "utförs", "enligt", "SBF120",":","8/SSEN12845:2015,15,15", "och", "enligt", "Etableringsmanual", "Brand", "MAXI."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 14,15,15, 0, 0, 0, 0, 0]}
-{"tokens": ["Samtliga", "förekommande", "kopplingar", "skall", "vara", "godkänt", "av", "SBSC", "eller", "vara", "UL/FM", "listat."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 0]}
-{"tokens": ["Allt", "sprinklermateriel", "skall", "vara", "godkänt", "av", "SBSC", "eller", "vara", "UL/FM", "listat."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 0]}
+{"tokens": ["Samtliga", "förekommande", "kopplingar", "skall", "vara", "godkänt", "av", "SBSC", "eller", "vara", "UL", "/", "FM", "listat."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 15, 15, 0]}
+{"tokens": ["Allt", "sprinklermateriel", "skall", "vara", "godkänt", "av", "SBSC", "eller", "vara", "UL","/","FM", "listat."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 15,15,0]}
 {"tokens": ["Anläggningen", "utförs", "enligt", "SBF", "120",":","6", "med", "vissa", "tillämpningar", "från", "NFPA", "13."], "ner_tags": [0, 0, 0, 14, 15,15,15, 0, 0, 0, 0, 14, 15]}
 {"tokens": ["Inom", "lagret", "utförs", "ESFR-sprinklersystemet", "vad", "gäller", "dimensionering,", "hinder,", "placering,", "täckningsyta", "mm", "enligt", "NFPA13,", "2013."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 0]}
 {"tokens": ["Anläggningen", "utförs", "enligt", "SBF", "120",":","7", "med", "vissa", "tillämpningar", "från", "NFPA", "13", "gällande", "EC-sprinkler"], "ner_tags": [0, 0, 0, 14, 15,15,15, 0, 0, 0, 0, 14, 15, 0, 0]}
@@ -70,7 +70,6 @@
 {"tokens":["SBF","120",":","2","/","EN","12845","specificerar","krav","för","systemet","."],"ner_tags":[14,15,15,15,0,0,0,0,0,0,0,0]}
 {"tokens":["Anläggningen","ska","uppfylla","SBF","120",":","4","och","NFPA","13","."],"ner_tags":[0,0,0,14,15,15,15,0,14,15,0]}
 {"tokens":["Uppföljning","sker","i","enlighet","med","SBF","120",":","5","/","SS-EN","12845","."],"ner_tags":[0,0,0,0,0,14,15,15,15,0,0,0,0]}
-
 {"tokens":["Protokoll","(SBF","120",":","3)","ska","följa","med","leverans","."],"ner_tags":[0,14,15,15,15,0,0,0,0,0]}
 {"tokens":["Alla","ändringar","ska","provköras","i","enlighet","med","SBF","120",":","3","."],"ner_tags":[0,0,0,0,0,0,0,14,15,15,15,0]}
 {"tokens":["Arbetsinstruktioner","i","enlighet","med","SBF","120",":","1","ska","publiceras","."],"ner_tags":[0,0,0,0,14,15,15,15,0,0,0]}
@@ -85,7 +84,6 @@
 {"tokens":["Arbetsmiljöplan","i","enlighet","med","SBF","120",":","1","kräver","godkännande","."],"ner_tags":[0,0,0,0,14,15,15,15,0,0,0]}
 {"tokens":["Kvalitetskontroll","utförs","enligt","SBF","120",":","1","före","sluttest","."],"ner_tags":[0,0,0,14,15,15,15,0,0,0]}
 {"tokens":["Alla","ändringar","ska","godkännas","enligt","SBF","120",":","3","."],"ner_tags":[0,0,0,0,0,14,15,15,15,0]}
-
 {"tokens":["Brandskyddet","ska","vara","i","enlighet","med","NFPA","13","föreskrifter","."],"ner_tags":[0,0,0,0,0,0,14,15,0,0]}
 {"tokens":["Underhåll","av","systemet","sker","enligt","NFPA13","standard","."],"ner_tags":[0,0,0,0,0,14,0,0]}
 {"tokens":["Installation","planeras","i","enlighet","med","NFPA","13","och","SS-EN","12845","."],"ner_tags":[0,0,0,0,0,14,15,0,0,0,0]}
@@ -106,5 +104,17 @@
 {"tokens":["Underhållsåtgärder","baseras","på","NFPA13","och","manufacturer","guidelines","."],"ner_tags":[0,0,0,14,0,0,0,0]}
 {"tokens":["Design","ska","följa","NFPA","13:6","krav","."],"ner_tags":[0,0,0,14,15,0,0]}
 {"tokens":["Utförande","ska","ske","i","enlighet","med","NFPA13","föreskrifter","."],"ner_tags":[0,0,0,0,0,0,14,0,0]}
-
-
+{"tokens": ["underhåll", "beräknas", "till", "två", "(", "2", ")", "stycken", "per", "år", "under", "garantitiden."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Entreprenören", "kallar", "skriftligt", "berörda", "parter", "cirka", "2", "veckor", "före", "lämplig", "tidpunkt."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bygghandlingar", "upprättas", "i", "skala", "1", ":", "100", "med", "redovisningsnivå"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["överlämnas", "till", "beställaren", "för", "granskning", "två", "veckor", "innan", "tid"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["15", "Provning", "av", "VVS", "-,", "Kyl", "-,", "och", "Processmediesystem", "YTC."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bokstäver", "minst", "4", "mm", "höga."], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["Bokstäver", "minst", "12", "mm", "höga."], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["Husdiameter", "100", "mm."], "ner_tags": [0, 0, 0]}
+{"tokens": ["batteribackup", "72", "timmar", "med", "slingövervakning"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["ansl", "15,", "68°", "C."], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["Backventiler", "skall", "vara", "av", "rillad", "typ", "för", "DN", "65", "och", "större."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Rörväggtjocklekar", "enligt", "SS", "-", "EN", "10255", ":", "2004", "+", "A1", ":", "2007", "Table", "B."], "ner_tags": [0, 0, 14, 15, 15, 15, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Samtliga", "trimsats", "rör", "DN", "15", "-", "50", "för", "sprinklercentral,"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["sprinkler", "monterade", "lägre", "än", "2,", "4", "m."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
