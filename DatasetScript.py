@@ -2,9 +2,11 @@
 import json
 
 all_text = [
-    "Rörväggtjocklekar enligt SS - EN 10255 : 2004 + A1 : 2007 Table B.",
-    "Samtliga trimsats rör DN 15 - 50 för sprinklercentral,",
-    "sprinkler monterade lägre än 2, 4 m.",
+    "Brandförsvarsföreningen utgivna ”Regler för Gassläcksystem”, SBF 500 : 4 . ",
+    "Integritetstest av lokalen skall i enlighet med krav i SBF 500 : 4 genomföras . ",
+    "Anläggningen utförs som våtrörssystem och i tillämpliga delar enligt SS-EN 16925:2018 och SBF 501 : 2 .",
+    "Allt sprinklermateriel ska vara typgodkänt av SBSC, FM eller UL. ",
+    
     
 
 ]
