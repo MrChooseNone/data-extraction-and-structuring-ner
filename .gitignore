@@ -8,6 +8,9 @@
 *.pdf
 ~$*.pdf
 
+# .env file
+.env
+
 
 my‐swedish‐ner/
 swedish-ner/
